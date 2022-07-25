@@ -1,5 +1,7 @@
 # ParkinsonDetection
 
-Bu repository parkinson hastalığı teşhisini koymaya yardımcı olabilecek bir projedir.
+Bu repository parkinson hastalığına ve alzheimer teşhisini koymaya yardımcı olabilecek bir projedir.
 
-Projeyi iki kısımda ele aldım. İlki veri bilimi ile teşhis konulması, ikincisi ise hastaların çizimlerinden yapılan teşhislerdir...
+Parkinson için veri bilimi analizi yaptım. Hastaların spiral çizimleri ile teşhisi üzerinde çalışmaktayım.
+
+Alzheimer için fotoğraflardan teşhis sağlayacağım.

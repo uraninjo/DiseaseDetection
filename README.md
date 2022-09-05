@@ -2,7 +2,7 @@
 
 Bu repository parkinson hastalığına ve alzheimer teşhisini koymaya yardımcı olabilecek bir projedir.
 
-Parkinson için veri bilimi analizi yaptım. Hastaların spiral çizimleri ile teşhisi üzerinde çalışmaktayım.
+Parkinson için veri bilimi analizi yaptım.
 
 Alzheimer için fotoğraflardan teşhis sağlayacağım.
 

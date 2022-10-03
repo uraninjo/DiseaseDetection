@@ -1,4 +1,4 @@
-# DiseaseDetection
+# DiseaseDiagnosis
 
 Bu repository parkinson hastalığına ve alzheimer teşhisini koymaya yardımcı olabilecek bir projedir.
 
